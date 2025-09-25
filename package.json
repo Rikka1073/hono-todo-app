@@ -1,0 +1,22 @@
+{
+  "name": "hono-todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikka1073/Hono-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikka1073/Hono-todo-app/issues"
+  },
+  "homepage": "https://github.com/Rikka1073/Hono-todo-app#readme",
+  "description": ""
+}
